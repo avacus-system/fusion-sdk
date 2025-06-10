@@ -12,7 +12,9 @@ dependencies:
   eth_sig_util: 0.0.9
   freezed_annotation: ^2.2.0
   json_annotation: ^4.8.1
-  web3dart: 2.3.3
+  web3dart_avacus:
+    git:
+      url: https://github.com/avacus-system/web3dart-avacus.git
 
 dev_dependencies:
   lints: ^2.0.0
